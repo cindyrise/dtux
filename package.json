@@ -1,0 +1,23 @@
+{
+  "name": "dtux",
+  "version": "1.0.1",
+  "description": "front react components dtux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cindyrise/dtux.git"
+  },
+  "keywords": [
+    "react",
+    "chart"
+  ],
+  "author": "charlesyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cindyrise/dtux/issues"
+  },
+  "homepage": "https://github.com/cindyrise/dtux#readme"
+}
